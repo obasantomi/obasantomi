@@ -2,25 +2,16 @@
 
 ### Software Engineer • Frontend-Focused • Building Modern Web Applications
 
-I'm a Software Engineer based in Lagos, Nigeria, passionate about building software that is both intuitive to use and technically sound.
+I'm a Full-Stack Engineer based in Lagos, Nigeria, passionate about building software that is both intuitive to use and technically sound.
 
 I enjoy designing scalable applications, building maintainable architectures, and crafting user experiences that feel effortless. My goal is to create products that are reliable, performant, accessible, and genuinely enjoyable to use.
 
-Currently, I'm a **Full-Stack Engineer at LeadSage Africa**, where I collaborate with designers, engineers, and product teams to build modern PropTech solutions using React, Next.js, TypeScript, Prisma, and modern web technologies.
+Currently, I'm a **Full-Stack Engineer at LeadSage Africa**, where I collaborate with designers, engineers, and product teams to build modern PropTech solutions using Next.js, NestJS, Node.js, TypeScript, Prisma, and modern web technologies.
+
+Check out my ![website](https://portfolio-me-mu-olive.vercel.app/)
 
 ---
 
-## 🚀 What I Enjoy Building
-
-- AI-powered applications
-- Modern frontend architectures
-- Full-stack web applications
-- Interactive user experiences
-- Scalable component systems
-- Design systems
-- Developer tooling
-
----
 
 # 🛠 Tech Stack
 
@@ -108,18 +99,6 @@ Developed production-ready interfaces, reusable component systems, and scalable 
 
 ---
 
-# 🌱 Currently Learning
-
-I'm continually expanding my expertise in:
-
-- Backend Engineering
-- System Design
-- Software Architecture
-- AI Engineering
-- Cloud Infrastructure
-- Distributed Systems
-
----
 
 # 📈 GitHub Stats
 
