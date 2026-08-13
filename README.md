@@ -8,7 +8,7 @@ I enjoy designing scalable applications, building maintainable architectures, an
 
 Currently, I'm a **Full-Stack Engineer at LeadSage Africa**, where I collaborate with designers, engineers, and product teams to build modern PropTech solutions using Next.js, NestJS, Node.js, TypeScript, Prisma, and modern web technologies.
 
-Check out my ![website](https://portfolio-me-mu-olive.vercel.app/)
+[Check out my website](https://portfolio-me-mu-olive.vercel.app/)
 
 ---
 
