@@ -36,18 +36,6 @@ Currently, I'm a **Full-Stack Engineer at LeadSage Africa**, where I collaborate
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
-## State Management
-
-- TanStack Query
-- Zustand
-- Redux
-
-## Authentication
-
-- NextAuth.js
-- OAuth
-- JWT
-
 ---
 
 # 🌟 Featured Projects
