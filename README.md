@@ -44,31 +44,6 @@ Currently, I'm a **Full-Stack Engineer at LeadSage Africa**, where I collaborate
 
 An AI-powered learning platform that transforms aspiring data analysts into industry-ready professionals through realistic projects using real-world datasets.
 
-### Highlights
-
-- AI-generated analytics projects
-- AI mentorship & feedback
-- World Bank Data API integration
-- Authentication with NextAuth
-- Prisma ORM & PostgreSQL
-- Progress tracking
-- Interactive landing page with Framer Motion
-- Scrollytelling experience
-
----
-
-## 🎬 NextReel
-
-A modern movie discovery application built using React and the TMDB API.
-
-### Highlights
-
-- Infinite scrolling
-- Debounced search
-- TanStack Query caching
-- Responsive UI
-- Optimized API integration
-
 ---
 
 # 💼 Experience
@@ -100,12 +75,6 @@ Developed production-ready interfaces, reusable component systems, and scalable 
 
 # 🤝 Let's Connect
 
-🌐 Portfolio: https://portfolio-me-mu-olive.vercel.app/
-
 💼 LinkedIn: www.linkedin.com/in/tomilola-obasan
 
 📧 Email: obasantomilola@gmail.com
-
----
-
-> *"Building software that is intuitive, scalable, and engineered to last."*
