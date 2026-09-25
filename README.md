@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Tomilola Obasan
 
-### Software Engineer • Frontend-Focused • Building Modern Web Applications
+### Software Engineer • Product Engineer • Building Modern Web Applications
 
 I'm a Full-Stack Engineer based in Lagos, Nigeria, passionate about building software that is both intuitive to use and technically sound.
 
